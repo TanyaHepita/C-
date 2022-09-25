@@ -7,7 +7,7 @@
 
 int main(){
     int n;
-    //std::string prime = "True";
+    std::string prime = "True";
 
     while(std::cin >> n)
     {
