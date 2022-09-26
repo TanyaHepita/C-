@@ -5,6 +5,8 @@
 #include<iostream>
 
 
+
+
 int main(){
     int n;
     std::string prime = "True";
