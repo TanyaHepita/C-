@@ -1,15 +1,11 @@
-//
-// Created by tanya on 25/09/22.
-//
-
 #include<iostream>
-
-
+#include<cmath>
 
 
 int main(){
     int n;
     std::string prime = "True";
+
 
     while(std::cin >> n)
     {
@@ -20,18 +16,14 @@ int main(){
             std::cout << n << " is a Prime : " << prime << '\n' ;
             continue;
         }
-        for (int i = 2; i < n/2; i++)
+        for (int i = 2; i < sqrt(n); i++)
             if (n % i == 0) {
                 prime = "False";
                 break;
             }
         std::cout << n << " is a Prime : " << prime << '\n';
 
-
-
     }
     return 0;
-
-
 
 }
