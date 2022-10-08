@@ -2,7 +2,6 @@
 #include<cmath>
 
 
-
 int main(){
     long long n;
 
