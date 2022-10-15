@@ -1,0 +1,14 @@
+# Code Review
+# Créateurs : Nathan Rabet
+# Réviseur : Tanya Haliche
+# Cartesian_vector_param
+# 15/10/2022
+
+Architecture ok.
+Le code compile bien.
+Tous les opérateurs ont été vus.
+résultats bons.
+
+La sortie est comme elle devrait être.
+
+Bon travail !
