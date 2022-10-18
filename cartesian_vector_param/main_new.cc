@@ -6,6 +6,7 @@
 #include <vector>
 #include <cstring> //strcmp
 
+
 #if NDIM == 2
 void testInit()
 {

@@ -4,6 +4,7 @@
 
 #include "config.h"
 
+
 class Vector
 {
 public:

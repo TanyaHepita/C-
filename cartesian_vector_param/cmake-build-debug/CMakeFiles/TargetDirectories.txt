@@ -1,0 +1,3 @@
+/home/tanya/CLionProjects/C++/CPP/cartesian_vector_param/cmake-build-debug/CMakeFiles/main.dir
+/home/tanya/CLionProjects/C++/CPP/cartesian_vector_param/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tanya/CLionProjects/C++/CPP/cartesian_vector_param/cmake-build-debug/CMakeFiles/rebuild_cache.dir
